@@ -1,0 +1,11 @@
+{
+  "name": "spk-pegawai-terbaik",
+  "version": "1.0.0",
+  "description": "Aplikasi SPK pemilihan pegawai terbaik menggunakan metode SAW",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelino",
+  "license": "ISC"
+}
