@@ -4,8 +4,11 @@
 ## Framework yang digunakan :
 * Express JS
 
-### How to install :
+### Build Setup :
+```bash
+# How to install
 * npm install
 
-### How to run :
+# How to run :
 * nodemon server
+```
