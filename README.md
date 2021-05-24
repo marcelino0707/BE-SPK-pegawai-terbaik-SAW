@@ -6,7 +6,7 @@
 
 ### Build Setup :
 ```bash
-# How to install
+# How to install :
 $ npm install
 
 # How to run :
