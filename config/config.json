@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "spk-saw",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+07:00",
+    "dialectOptions": { 
+      "useUTC": "false",
+      "timezone": "+07:00"
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "spk-saw",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "spk-saw",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
