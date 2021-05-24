@@ -7,8 +7,8 @@
 ### Build Setup :
 ```bash
 # How to install
-* npm install
+$ npm install
 
 # How to run :
-* nodemon server
+$ nodemon server
 ```
