@@ -14,4 +14,4 @@ $ nodemon server
 ```
 
 ### Dokumentasi API :
-* Coming soon :)
+* https://documenter.getpostman.com/view/9145498/Tz5iA17W
